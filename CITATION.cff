@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it using these metadata.
+authors:
+  - family-names: "Kongdee"
+    given-names: "Rujiravee"
+    orcid: "https://orcid.org/0000-0003-0375-2833"
+title: "Dataset for the GIMA-2 study"
+version: 2.0.4
+doi: 10.5281/zenodo.14794811
+date-released: 2025-02-03
+url: "https://github.com/Rujiravee/GIMA-2"
